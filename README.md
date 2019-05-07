@@ -1,1 +1,6 @@
-# Coming soon!
+# WIP
+
+## Chris Vo
+
+### Who am I?
+
